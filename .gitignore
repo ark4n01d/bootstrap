@@ -34,8 +34,7 @@ nbproject
 .komodotools
 
 # grunt-html-validation
-validation-status.json
-validation-report.json
+validation-staus.json
 
 # Folders to ignore
 .hg
